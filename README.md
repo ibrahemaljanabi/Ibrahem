@@ -3,7 +3,7 @@
 <head>
 <meta lang="eng">
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0 "">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>ibrahem aljanabi</title>
 </head>
 <h1>Top 10 movie refrence by ibrahem </h1>
