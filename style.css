@@ -1,0 +1,17 @@
+
+body{background-color: black;}
+#imp-i{
+    border: 5px solid white ;
+    width: 20%;
+}
+
+.d1{
+    text-align: center; 
+    margin-top: 5%;
+    color: aliceblue;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 40px;
+}
+
+
+
